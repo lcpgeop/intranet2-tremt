@@ -4,6 +4,6 @@
            prefix="plone"
            purge="false"
   >
-    <value key="email_from_name">Intranet2 do TRE-MT</value>
+    <value key="email_from_name">Intranet do TRE-MT</value>
   </records>
 </registry>
